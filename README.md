@@ -37,4 +37,4 @@ python app.py
 ```
 
 
-![Example Image](https://github.com/VoroninMaxim/Clearml_project/blob/main/2024-11-07%20021637.gif)
+![Example Image](https://github.com/VoroninMaxim/Project_mlflow/blob/main/metrics_plot.png)
